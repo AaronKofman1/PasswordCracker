@@ -3,8 +3,6 @@ import java.security.*;
 import java.util.*;
 
 /**
- * CS3780 Project 2 - Task 1: Password Manager
- * Aaron Kofman and Tyler Skinner
  * Manages accounts across three password files:
  *   passwords1.txt - plaintext username:password
  *   passwords2.txt - username:SHA-256(password)
