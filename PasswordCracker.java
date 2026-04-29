@@ -3,8 +3,6 @@ import java.security.*;
 import java.util.*;
 
 /**
- * CS3780 Project 2 - Task 2: Password Cracker
- * Aaron Kofman and Tyler Skinner
  * Brute-forces digit-only passwords of exactly the specified length
  * against type 2 or type 3 password files.
  * Environment: IntelliJ IDEA
